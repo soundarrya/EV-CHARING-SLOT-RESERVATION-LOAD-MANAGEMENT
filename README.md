@@ -56,7 +56,7 @@ It also includes **intelligent load balancing**, **IoT-based fault detection**, 
 
 ---
 
-## Folder Structure (GitHub Ready):
+## Folder Structure:
 
 ```
 /BRD
